@@ -1,0 +1,31 @@
+{% assign sidebar = site.data.data.sidebar %}
+<div class="sidebar-wrapper">
+
+  <div class="profile-container">
+
+    {% if sidebar.avatar %}
+    <img class="avatar" src="{{ site.baseurl }}/assets/images/{{ sidebar.avatar }}" alt="profile picture" />
+    {% endif %}
+
+    {% if sidebar.name %}
+    <h1 class="name">{{ sidebar.name }}</h1>
+    {% endif %}
+
+    {% if sidebar.link_cv %}
+        <h3 class="tagline">   
+          <i class="fas fa-file-pdf"></i> <a href="{{ sidebar.link_cv }}" target="_blank">Curriculum Vitae</a>
+        </h3>
+    {% endif %}
+  
+
+  </div><!--//profile-container-->
+
+  {% include interests.html %}
+
+  {% if sidebar.education %}
+    {% include education.html %}
+  {% endif %}
+
+  {% include contact.html %}
+
+</div><!--//sidebar-wrapper-->

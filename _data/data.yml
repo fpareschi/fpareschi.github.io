@@ -1,0 +1,170 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    position: left # position of the sidebar : left or right
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Francisco Pareschi
+    tagline: Curriculum Vitae
+    link_cv: https://drive.google.com/open?id=1799eQePA-se6hLByrp3OcBnSwGLz5qoq&usp=drive_fs 
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: fpareschi@u.northwestern.edu
+    phone: # 012 345 6789
+    timezone: # America/Cancun Timezone
+    citizenship:
+    website: # blog.webjeda.com #do not add http://
+    linkedin: francisco-pareschi
+    xing: #alandoe
+    github: fpareschi
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@panchopareschi'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: https://drive.google.com/open?id=1799eQePA-se6hLByrp3OcBnSwGLz5qoq&usp=drive_fs 
+
+    languages: 
+      title: #Languages
+      info:
+        - idiom: Spanish 
+          level: Native
+
+        - idiom: English 
+          level: Fluent
+
+        - idiom: Spanish
+          level: Professional
+
+    interests:
+      title: Interests
+      info:
+        - item: Industrial Organization
+          link:
+
+        - item: Public Economics
+          link:
+
+career-profile:
+    title: Biography
+    summary: |
+      I am a Ph.D. candidate in Economics at Northwestern University. 
+      My interests are in the fields of Industrial Organization and Public Economics.
+    highlihgt: I will be on the 2023/2024 job market.
+
+education:
+    title: Education
+    info:
+      - degree: Ph.D. in Economics
+        university: Northwestern University
+        time: 2018 - 2024 (expected)
+        details:
+      - degree: M.A in Economics
+        university: Universidad Carlos III de Madrid
+        time: 2016 - 2018
+        details:
+      - degree: BA in Economics
+        university: Universidad de la Republica
+        time: 2010 - 2014
+        details:
+
+publications:
+  title: Working Papers
+  intro: 
+  assignments:
+    - title: Industry dynamics in markets with inertia (JMP)
+      link: "https://drive.google.com/open?id=16I7tRB-XFKtr3k2JFtrm9l6u7RcmagGD&usp=drive_fs"
+      abstract: |
+        In this study, we focus on the effect of consumer inertia on industry dynamics. We develop a new
+
+        dynamic model of price competition, entry, and exit. We then apply it to the Uruguayan tobacco indus-
+        try. The model reveals that consumer inertia makes the entry of new products harder but also lowers
+
+        equilibrium prices, resulting in an overall positive effect on consumers’ welfare. We show how to relax
+        the traditional Markov Perfect Equilibrium to make models of dynamic price competition amenable to
+        empirical analysis. Our empirical strategy can be extrapolated to other industries and policy problems
+        where inertia and participation are critical. To illustrate, we investigate consumer inertia’s influence on
+        the design of taxes in the Uruguayan tobacco industry.
+      coauthors: with Gaston Lopez
+
+    - title: Bounding Outcomes in Counterfactual Analysis
+      link: "#"
+      abstract: |
+        In many economic settings, counterfactual analysis can be difficult 
+        for two reasons: (i) we do not know how to compute the equilibrium 
+        of the game, or (ii) even if we know how to compute one equilibrium,
+        the game might feature multiple equilibria, which are difficult to 
+        exhaustively characterize. We propose a new methodology to allow for
+        counterfactual analysis even when these problems might arise. The 
+        method relies on determining valid (conservative) bounds to counterfactual
+        outcomes that contain any outcome that could be sustained in equilibrium,
+        i.e., any outcome that can be supported by a set of equilibrium constraints.
+        To ensure that all potential solutions are considered, We propose
+        to reframe equilibrium constraints as a relaxed mixed-integer 
+        linear program. We show that the framework can also be used to 
+        narrow down equilibria, by imposing additional equilibrium constraints.
+        We provide examples related to multi-unit auctions and dynamic games,
+        two areas in which counterfactual analysis has proven elusive.
+      coauthors: with Mar Reguant
+
+    - title: Public Provision under Market Power. Evidence from a Nationalization in the Argentina Gasoline Industry
+      link: "#"
+      abstract: 
+      coauthors: with Gaston Lopez
+ 
+projects:
+    title: Work in Progress
+    intro: 
+    assignments:
+      - title: "Insurance under information frictions in the
+        electricity market"
+        link: 
+        abstract: |
+          The emergence of Real Time Pricing has 
+          generated expectations of achieving efficiency 
+          in the electricity market. However, consumers have 
+          appeared reluctant to accept the bill volatility 
+          caused by time variant tariffs. Thus, eliciting
+          consumer preferences is a prerequisite to correctly 
+          assess the welfare impact of a broad implementation 
+          of RTP . In this paper I use detailed household level data from 
+          the Spanish electricity market to study how household characteristics
+          and preferences influence their electricity tariff choice. I provide model
+          free evidence to illustrate that consumers' choices are not only the resolution 
+          to a trade-off between mean payments and volatility which resembles that of 
+          an insurance market, but are also driven by information frictions and inattention.
+          I also propose a stylized two stage choice model that captures these regularities.
+          The actual estimation of the model and counterfactual analysis are left for future 
+           work.    
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python & Django
+        level: 98%
+
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

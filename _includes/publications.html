@@ -1,0 +1,45 @@
+{% assign publications_data = site.data.data.publications %}
+{% if publications_data %}
+<section class="section publications-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ publications_data.title }}
+  </h2>
+
+  {% if publications_data.intro %}
+  <div class="intro">
+      <p>{{ publications_data.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for publication in publications_data.assignments %}
+    <div class="item">
+
+      <div class="publications-title">
+        {% if publication.link %}
+        <a href="{{ publication.link }}" target="_blank">{{ publication.title }}</a>
+        {% else %}
+        {{ publication.title }}
+        {% endif %}
+
+        {% if publication.coauthors %} <!-- Check if coauthors data exists for this publication -->
+        , <span class="coauthors">{{ publication.coauthors }}</span> <!-- Display coauthors -->
+        {% endif %}
+      </div>
+
+      {% if publication.abstract %} <!-- Assuming each publication has an 'abstract' key for the description -->
+      <div class="publications-abstract">
+        <strong>Abstract:</strong> <!-- This is the small title for the abstract -->
+        {{ publication.abstract }}
+      </div>
+      {% endif %}
+
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
