@@ -48,15 +48,16 @@ sidebar:
       info:
         - item: Industrial Organization
           link:
-
-        - item: Public Economics
+        - item: Applied Econometrics
+          link:
+        - item: Game Theory
           link:
 
 career-profile:
     title: Biography
     summary: |
       I am a Ph.D. candidate in Economics at Northwestern University. 
-      My interests are in the fields of Industrial Organization and Public Economics.
+      My interests are in the fields of Industrial Organization and Applied Econometrics.
     highlihgt: I will be on the 2023/2024 job market.
 
 education:
