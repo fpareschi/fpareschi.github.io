@@ -80,19 +80,28 @@ publications:
   title: Working Papers
   intro: 
   assignments:
-    - title: Industry dynamics in markets with inertia (JMP, draft coming soon)
+
+    - title: Reducing Consumer Inertia in Tobacco Markets (JMP, draft coming soon)
       link: # "https://drive.google.com/open?id=16I7tRB-XFKtr3k2JFtrm9l6u7RcmagGD&usp=drive_fs"
       abstract: |
-        In this study, we focus on the effect of consumer inertia on industry dynamics. We develop a new
+        We explore the effects of reducing addiction and brand loyalty on tobacco consumption. 
+        Our study responds to the Federal Drug Administration and the World Health Organization's 
+        initiatives to decrease consumer state dependence through nicotine caps and plain packaging. 
+        Our research shows that policies aiming at reducing consumer state dependence can backfire by
+        increasing consumption through lower prices and making taxes less effective at reducing 
+        smoking prevalence. To reach this conclusion, we first develop a novel model of dynamic 
+        price competition that considers entry, exit, and consumer inertia. Crucially, we illustrate
+        how to make this model empirically tractable by adopting a computationally efficient 
+        equilibrium solution. Solving the model for several consumer inertia parameters, we 
+        note that the relationship between inertia and consumption is non-monotonic and concave.
+        We then leverage unique variation from the Uruguayan tobacco industry to show that both
+        addiction and brand loyalty are relevant, and that firms consider consumers' inertia while
+        making business decisions. Finally, we show that modest drops in consumer state dependence 
+        from our baseline estimates tend to decrease prices and increase aggregate consumption. 
+        However, completely eliminating inertia leads to higher prices without a substantial effect on
+        the number of available products, which reduces aggregate consumption. 
 
-        dynamic model of price competition, entry, and exit. We then apply it to the Uruguayan tobacco 
-        industry. The model reveals that consumer inertia makes the entry of new products harder but also lowers
 
-        equilibrium prices, resulting in an overall positive effect on consumers' welfare. We show how to relax
-        the traditional Markov Perfect Equilibrium to make models of dynamic price competition amenable to
-        empirical analysis. Our empirical strategy can be extrapolated to other industries and policy problems
-        where inertia and participation are critical. To illustrate, we investigate consumer inertia’s influence on
-        the design of taxes in the Uruguayan tobacco industry.
       coauthors: with Gaston Lopez
 
     - title: Bounding Outcomes in Counterfactual Analysis
@@ -118,13 +127,44 @@ publications:
 
     - title: Public Provision under Market Power. Evidence from a Nationalization in the Argentina Gasoline Industry
       link: #
-      abstract: 
+      abstract: |
+        We study the nationalization of YPF, Argentina's leading gasoline company. We find that the
+        nationalization led to lower gasoline prices, particularly for inelastic demand products, 
+        and varying price reductions across geographic regions, favoring consumers who have 
+        political ties with the firm. We develop and estimate a model of supply and demand of
+        gasoline and recover the objective function of the State-Owned Enterprise (SOE), allowing
+        for heterogeneity in the way in which the SOE internalizes different groups of consumers
+        and firms. Our analysis reveals a dual impact of the nationalization: reduced
+        economic price discrimination, benefiting consumers on average, but increased 
+        political price discrimination, favoring particular groups over others based 
+        on political attributes. We then use the model to evaluate policy alternatives, 
+        including privatization and regulations that limit SOEs' discretion, to inform the 
+        current debate surrounding SOEs in different countries. These findings shed light on
+        the complexities of public provision, emphasizing the role of politics and interest
+        groups in shaping SOEs actions and their distributional consequences.
+
       coauthors: with Gaston Lopez
- 
+
 projects:
     title: Work in Progress
     intro: 
     assignments:
+      - title: Industry dynamics in markets with inertia 
+        link: # "https://drive.google.com/open?id=16I7tRB-XFKtr3k2JFtrm9l6u7RcmagGD&usp=drive_fs"
+        abstract: |
+          We study the effect of consumer inertia on industry dynamics. We develop a novel dynamic 
+          model of price competition that integrates entry, exit, and consumer state dependence. 
+          We first simulate the model in a simple environment using Markov Perfect Equilibrium (MPE) 
+          as the equilibrium concept. We then parametrize the model using data from the tobacco 
+          industry and compare the performance of different equilibrium notions that allow us to keep 
+          the model empirically tractable. Our findings reveal that consumer inertia leads to lower 
+          equilibrium prices but does not significantly affect market participation or product 
+          variety. We observe that state dependence only results in higher prices and concentrated 
+          markets if nearly all customers are repeat buyers and participation costs are high. We 
+          propose several approximations of the MPE that researchers can apply to other markets and 
+          problems where inertia and participation are relevant. To demonstrate its usefulness in 
+          policy design, we examine the impact of inertia on merger evaluation.
+
       - title: "Insurance under information frictions in the
         electricity market"
         link: #
@@ -143,8 +183,9 @@ projects:
           free evidence to illustrate that consumers' choices are not only the resolution 
           to a trade-off between mean payments and volatility which resembles that of 
           an insurance market, but are also driven by information frictions and inattention.
-          We also propose a stylized two stage choice model that captures these regularities.
-          
+          We then recover consumer preferences using an empirical model demand for insurance.
+
+
 
 skills:
     title: Skills &amp; Proficiency
