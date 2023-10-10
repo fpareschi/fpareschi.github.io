@@ -10,8 +10,8 @@ sidebar:
     # Profile information
     name: Francisco Pareschi
     tagline: Curriculum Vitae
-    link_cv: https://drive.google.com/open?id=1799eQePA-se6hLByrp3OcBnSwGLz5qoq&usp=drive_fs 
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    link_cv: /assets/files/Donload Vita (PDF).pdf
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: fpareschi@u.northwestern.edu
@@ -82,24 +82,28 @@ publications:
   assignments:
 
     - title: Reducing Consumer Inertia in Tobacco Markets (JMP, draft coming soon)
-      link: # "https://drive.google.com/open?id=16I7tRB-XFKtr3k2JFtrm9l6u7RcmagGD&usp=drive_fs"
+      link: /assets/files/inertia_tobacco_latest.pdf
       abstract: |
-        We explore the effects of reducing addiction and brand loyalty on tobacco consumption. 
-        Our study responds to the Federal Drug Administration and the World Health Organization's 
-        initiatives to decrease consumer state dependence through nicotine caps and plain packaging. 
-        Our research shows that policies aiming at reducing consumer state dependence can backfire by
-        increasing consumption through lower prices and making taxes less effective at reducing 
-        smoking prevalence. To reach this conclusion, we first develop a novel model of dynamic 
-        price competition that considers entry, exit, and consumer inertia. Crucially, we illustrate
-        how to make this model empirically tractable by adopting a computationally efficient 
-        equilibrium solution. Solving the model for several consumer inertia parameters, we 
-        note that the relationship between inertia and consumption is non-monotonic and concave.
-        We then leverage unique variation from the Uruguayan tobacco industry to show that both
-        addiction and brand loyalty are relevant, and that firms consider consumers' inertia while
-        making business decisions. Finally, we show that modest drops in consumer state dependence 
-        from our baseline estimates tend to decrease prices and increase aggregate consumption. 
-        However, completely eliminating inertia leads to higher prices without a substantial effect on
-        the number of available products, which reduces aggregate consumption. 
+        Despite decades-long efforts to discourage smoking, the tobacco industry remains resilient 
+        partly due to consumers' physical and psychological dependence. Recently, regulators have 
+        proposed nicotine caps and standardized packaging, known to decrease addiction and
+        loyalty, the two primary sources of inertia in the market. In response, tobacco 
+        companies argue that lowering inertia will intensify price competition, making cheaper 
+        alternatives available and raising consumption. We study the impact of reducing addiction
+        and loyalty on cigarette consumption. To analyze this problem, we develop a dynamic model 
+        of price competition under inertia that considers firms' product assortment. We adopt a 
+        computationally efficient equilibrium solution to make it empirically tractable and use rich 
+        variation from the Uruguayan tobacco market to estimate its primitives. We argue that 
+        equilibrium effects depend on how firms balance their incentives to capture new customers 
+        and profit from existing ones. If by reducing inertia, firms' incentives to attract new 
+        consumers decrease enough; then prices might increase instead. Indeed, we show that 
+        sizable drops in brand loyalty lead to higher prices. Even if firms lower prices, the direct 
+        effect on consumers might dominate, as in the case of lowering addiction. Finally, we 
+        illustrate that eliminating inertia increases tax efficacy to deter consumption. In our
+        context, taxes discourage firms from expanding their customer base, leading to higher tax 
+        pass-through. Hence, by lowering inertia firms pass less of the tax to customers. We contend 
+        this is positive for governments because they can reduce smoking prevalence while sacrificing 
+        less revenue.
 
 
       coauthors: with Gaston Lopez
