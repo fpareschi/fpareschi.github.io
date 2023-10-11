@@ -85,30 +85,50 @@ publications:
       link: #/assets/files/inertia_tobacco_latest.pdf
       abstract: |
         Despite decades-long efforts to discourage smoking, the tobacco industry remains resilient 
-        partly due to consumers' physical and psychological dependence. Recently, regulators have 
-        proposed nicotine caps and standardized packaging, known to decrease addiction and
-        loyalty, the two primary sources of inertia in the market. In response, tobacco 
-        companies argue that lowering inertia will intensify price competition, making cheaper 
-        alternatives available and raising consumption. We study the impact of reducing addiction
-        and loyalty on cigarette consumption. To analyze this problem, we develop a dynamic model 
-        of price competition under inertia that considers firms' product assortment. We adopt a 
-        computationally efficient equilibrium solution to make it empirically tractable and use rich 
-        variation from the Uruguayan tobacco market to estimate its primitives. We argue that 
-        equilibrium effects depend on how firms balance their incentives to capture new customers 
-        and profit from existing ones. If by reducing inertia, firms' incentives to attract new 
-        consumers decrease enough; then prices might increase instead. Indeed, we show that 
-        sizable drops in brand loyalty lead to higher prices. Even if firms lower prices, the direct 
-        effect on consumers might dominate, as in the case of lowering addiction. Finally, we 
-        illustrate that eliminating inertia increases tax efficacy to deter consumption. In our
-        context, taxes discourage firms from expanding their customer base, leading to higher tax 
-        pass-through. Hence, by lowering inertia firms pass less of the tax to customers. We contend 
-        this is positive for governments because they can reduce smoking prevalence while sacrificing 
-        less revenue.
+        partly due to consumers' dependence. Recently, regulators have proposed nicotine caps and 
+        standardized packaging, known to decrease addiction and brand loyalty, the two 
+        primary sources of inertia in the market. In response, tobacco companies argue that lowering 
+        inertia will intensify price competition, making cheaper alternatives available and raising 
+        consumption. To study the impact of reducing addiction and loyalty on cigarette consumption, 
+        we develop a model of dynamic competition under inertia and estimate it using data from the 
+        Uruguayan market. The equilibrium effects depend on how firms balance their incentives to 
+        capture new customers and profit from existing ones. We show that small brand loyalty 
+        reductions can indeed increase consumption due to firm price responses. However, sizable 
+        drops lead to higher prices instead because firms' incentives to attract new consumers 
+        decrease more than their ability to profit from them. Lower inertia does not lead to more 
+        available products either, and even when firms lower prices, the direct effect on consumers 
+        might dominate, as in the case of eliminating addiction. Moreover, lowering inertia diminishes 
+        firms' pass-through because, under high inertia, taxes also discourage firms from expanding 
+        their locked-in customer base. We contend this is positive for governments because they can 
+        use taxes to deter smoking while sacrificing less revenue.
+
 
 
       coauthors: with Gaston Lopez
 
-    - title: Bounding Outcomes in Counterfactual Analysis
+    - title: Public Provision under Market Power. Evidence from a Nationalization in the Argentina Gasoline Industry
+      link: #
+      abstract: |
+        We study the nationalization of YPF, Argentina's leading gasoline company. We find that the 
+        nationalization led to lower gasoline prices, particularly for inelastic demand products, 
+        and varying price reductions across geographic regions, favoring consumers who have 
+        political ties with the firm. We develop and estimate a model of supply and demand of 
+        gasoline and recover the objective function of the State-Owned Enterprise (SOE), allowing 
+        for heterogeneity in how the SOE internalizes different groups of consumers and firms. Our 
+        analysis reveals a dual impact of the nationalization: reduced economic price 
+        discrimination, benefiting consumers on average and increasing total welfare, but 
+        increased political price discrimination, favoring particular groups over others 
+        based on political attributes. We then use the model to evaluate the firm's response to 
+        policy alternatives, including privatization and regulations that limit SOEs' discretion, 
+        to inform the current debate surrounding SOEs in different countries. We found that limiting 
+        government discretion effectively reduces political price discrimination but negatively 
+        affects overall welfare and government revenues. These findings shed light on the complexities 
+        of public provision, emphasizing the role of interest groups and politics in shaping government 
+        decision-making and their distributional consequences.
+
+      coauthors: with Gaston Lopez
+
+      - title: Bounding Outcomes in Counterfactual Analysis
       link: #
       abstract: |
         In many economic settings, counterfactual analysis can be difficult 
@@ -129,26 +149,6 @@ publications:
         three areas in which counterfactual analysis has proven elusive.
       coauthors: with Mar Reguant
 
-    - title: Public Provision under Market Power. Evidence from a Nationalization in the Argentina Gasoline Industry
-      link: #
-      abstract: |
-        We study the nationalization of YPF, Argentina's leading gasoline company. We find that the
-        nationalization led to lower gasoline prices, particularly for inelastic demand products, 
-        and varying price reductions across geographic regions, favoring consumers who have 
-        political ties with the firm. We develop and estimate a model of supply and demand of
-        gasoline and recover the objective function of the State-Owned Enterprise (SOE), allowing
-        for heterogeneity in the way in which the SOE internalizes different groups of consumers
-        and firms. Our analysis reveals a dual impact of the nationalization: reduced
-        economic price discrimination, benefiting consumers on average, but increased 
-        political price discrimination, favoring particular groups over others based 
-        on political attributes. We then use the model to evaluate policy alternatives, 
-        including privatization and regulations that limit SOEs' discretion, to inform the 
-        current debate surrounding SOEs in different countries. These findings shed light on
-        the complexities of public provision, emphasizing the role of politics and interest
-        groups in shaping SOEs actions and their distributional consequences.
-
-      coauthors: with Gaston Lopez
-
 projects:
     title: Work in Progress
     intro: 
@@ -156,21 +156,20 @@ projects:
       - title: Industry dynamics in markets with inertia 
         link: # "https://drive.google.com/open?id=16I7tRB-XFKtr3k2JFtrm9l6u7RcmagGD&usp=drive_fs"
         abstract: |
-          We study the effect of consumer inertia on industry dynamics. We develop a novel dynamic 
-          model of price competition that integrates entry, exit, and consumer state dependence. 
-          We first simulate the model in a simple environment using Markov Perfect Equilibrium (MPE) 
-          as the equilibrium concept. We then parametrize the model using data from the tobacco 
-          industry and compare the performance of different equilibrium notions that allow us to keep 
-          the model empirically tractable. Our findings reveal that consumer inertia leads to lower 
-          equilibrium prices but does not significantly affect market participation or product 
-          variety. We observe that state dependence only results in higher prices and concentrated 
-          markets if nearly all customers are repeat buyers and participation costs are high. We 
-          propose several approximations of the MPE that researchers can apply to other markets and 
-          problems where inertia and participation are relevant. To demonstrate its usefulness in 
-          policy design, we examine the impact of inertia on merger evaluation.
+          We study the effect of consumer inertia on industry dynamics. We develop a dynamic model 
+          of price competition that integrates entry, exit, and consumer inertia. We first simulate 
+          the model in a simple environment using Markov Perfect Equilibrium as the equilibrium 
+          concept. Our findings reveal that consumer inertia leads to lower equilibrium prices but 
+          does not significantly affect market participation or product variety. We observe that 
+          state dependence only results in higher prices and concentrated markets if nearly all 
+          customers are repeat buyers and participation costs are high. We propose several 
+          alternative equilibrium definitions that researchers can apply to empirical settings 
+          problems where inertia and participation are relevant. We use these techniques to 
+          parametrize the model using data from the tobacco industry and compare the performance 
+          of different equilibrium notions. To demonstrate its usefulness in policy design, we 
+          examine the impact of inertia on merger evaluation.
 
-      - title: "Insurance under information frictions in the
-        electricity market"
+      - title: "Insurance under information frictions in the electricity market"
         link: #
         coauthors: with Mar Reguant
         abstract: |
