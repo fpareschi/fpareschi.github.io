@@ -101,9 +101,6 @@ publications:
         firms' pass-through because, under high inertia, taxes also discourage firms from expanding 
         their locked-in customer base. We contend this is positive for governments because they can 
         use taxes to deter smoking while sacrificing less revenue.
-
-
-
       coauthors: with Gaston Lopez
 
     - title: Public Provision under Market Power. Evidence from a Nationalization in the Argentina Gasoline Industry
@@ -128,7 +125,7 @@ publications:
 
       coauthors: with Gaston Lopez
 
-      - title: Bounding Outcomes in Counterfactual Analysis
+    - title: Bounding Outcomes in Counterfactual Analysis
       link: #
       abstract: |
         In many economic settings, counterfactual analysis can be difficult 
