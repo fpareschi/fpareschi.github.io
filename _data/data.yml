@@ -132,22 +132,19 @@ publications:
     - title: Bounding Outcomes in Counterfactual Analysis
       link: /assets/files/bounds_latest.pdf
       abstract: |
-        In many economic settings, counterfactual analysis can be difficult 
-        for two reasons: (i) we do not know how to compute the equilibrium 
-        of the game, or (ii) even if we know how to compute one equilibrium,
-        the game might feature multiple equilibria, which are difficult to 
-        exhaustively characterize. We propose a new methodology to allow for
-        counterfactual analysis even when these problems might arise. The 
-        method relies on determining valid (conservative) bounds to counterfactual
-        outcomes that contain any outcome that could be sustained in equilibrium,
-        i.e., any outcome that can be supported by a set of equilibrium constraints.
-        To ensure that all potential solutions are considered, We propose
-        to reframe equilibrium constraints as a relaxed mixed-integer 
-        linear program. We show that the framework can also be used to 
-        narrow down equilibria, by imposing additional equilibrium constraints.
-        We provide examples related to static price competition, multi-unit 
-        auctions and dynamic games,
-        three areas in which counterfactual analysis has proven elusive.
+        In many economic settings, counterfactual analysis can be difficult for two reasons: (i) we 
+        do not know how to compute the equilibrium of the game, or (ii) even if we know how to 
+        compute one equilibrium, the game might feature multiple equilibria, which are challenging 
+        to characterize exhaustively. We propose a bounding framework to allow for counterfactual 
+        analysis even when these problems might arise. The method relies on determining valid 
+        (conservative) bounds to counterfactual outcomes that contain any outcome that could be 
+        sustained in equilibrium, i.e., any outcome that can be supported by a set of equilibrium 
+        constraints. To ensure that all potential solutions are considered, We propose to reframe 
+        equilibrium constraints as a relaxed mixed-integer linear program. We show that the 
+        framework can also be used to narrow down equilibria by imposing additional equilibrium 
+        constraints. We provide examples of static price competition with differentiated products, 
+        dynamic games, and multi-unit auctions, three areas where counterfactual analysis faces 
+        these challenges.
       coauthors: with Mar Reguant
 
 projects:
