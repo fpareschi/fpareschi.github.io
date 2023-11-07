@@ -90,21 +90,20 @@ publications:
         explore two reasons consumers are attached to their products: they get addicted to nicotine 
         and develop lasting brand loyalty to their products. Recently, regulators have proposed some 
         policies that would eliminate the addictive components of cigarettes and others that make 
-        consumers less loyal to their brands. Although such policies would directly impact 
-        consumers, we must understand firms' responses to assess their impact on consumption. 
-        Consumer inertia introduces dynamic incentives for the firms since future demand depends 
-        on current choices. As a result, consumers become a valuable asset for the firm; capturing 
-        new customers is more costly, and exploiting existing ones is more attractive. Consequently, 
-        firms modify how they price, introduce, and discontinue products. To assess the empirical 
-        effect of reducing inertia in tobacco markets, we develop a model that accounts for 
-        consumers and firm responses: consumers have addiction and loyalty, and firms choose 
-        prices and product portfolios. We estimate the model leveraging rich variation from the 
-        Uruguayan industry and solve the dynamic game for multiple counterfactual levels of inertia. 
-        We find that firms' responses tend to make policies more effective in reducing consumption because 
-        lowering inertia also discourages firms from investing in attracting customers, who are less 
-        likely to repeat consumption choices. However, if the policies do not make smokers more 
-        likely to quit, they can backfire by increasing competition and facilitating the 
-        entry of new products.
+        consumers less loyal to their brands. Although such policies would directly impact consumers, 
+        we must understand firms' responses to assess their impact on consumption. Consumer inertia 
+        introduces dynamic incentives for the firms since future demand depends on current choices. 
+        As a result, consumers become a valuable asset for the firm, which modifies how they price, 
+        introduce, and discontinue products. To assess the empirical effect of reducing inertia in 
+        tobacco markets, we develop a model that accounts for consumers and firm responses: 
+        consumers have addiction and loyalty, and firms choose prices and product portfolios. 
+        We estimate the model leveraging rich variation from the Uruguayan industry and solve the 
+        dynamic game for multiple counterfactual levels of inertia. We find that firms' responses 
+        are unlikely to reverse the direct effect on consumers, even though lowering inertia 
+        makes customers more price-responsive and can facilitate entry. The central mechanism is 
+        that lowering inertia also discourages firms from investing in attracting customers, who 
+        are less likely to repeat consumption choices. Even when the policies do backfire, 
+        the effect on consumption remains small because of this countervailing force. 
       coauthors: with Gaston Lopez
 
     - title: Public Provision under Market Power. Evidence from a Nationalization in the Argentina Gasoline Industry
