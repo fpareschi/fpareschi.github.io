@@ -167,7 +167,7 @@ projects:
           MPE is inappropriate to study these industries due to the high computational requirements 
           both to market participants and analysts. Thus, I consider an alternative equilibrium 
           concept where firms condition in their own state and some market aggregates to form 
-          beliefs about rivals' states and \emph{actions}. I evaluate the effect of introducing 
+          beliefs about rivals' states and actions. I evaluate the effect of introducing 
           more information and alternative approximations of beliefs on industry outcomes and 
           compare these outcomes to the underlying MPE's steady state. In this context, the 
           comparison is possible even with many firms since the MPE's steady state can be computed 
@@ -180,7 +180,7 @@ projects:
         coauthors: with Matthew O'Keefe
         abstract:
           We study the effects of storage on the allocative efficiency of water markets. 
-          Water rights have been historically hard to transact. Water \emph{markets}, in turn, 
+          Water rights have been historically hard to transact. Water markets, in turn, 
           enable farmers and other users to trade water endowments at a lower cost, resulting in 
           more efficient use of water. Regulated water systems, such as the well-known 
           Murray-Darling water basin in Australia, make water a storable good. In particular, 
