@@ -99,11 +99,11 @@ publications:
         consumers have addiction and loyalty, and firms choose prices and product portfolios. 
         We estimate the model leveraging rich variation from the Uruguayan industry and solve the 
         dynamic game for multiple counterfactual levels of inertia. We find that firms' responses 
-        are unlikely to reverse the direct effect on consumers, even though lowering inertia 
-        makes customers more price-responsive and can facilitate entry. The central mechanism is 
-        that lowering inertia also discourages firms from investing in attracting customers, who 
-        are less likely to repeat consumption choices. Even when the policies do backfire, 
-        the effect on consumption remains small because of this countervailing force. 
+        are unlikely to reverse the direct effect on consumers, even though lowering inertia makes 
+        customers more price-responsive and can facilitate entry. Decreasing inertia also discourages 
+        firms from lowering prices to attract customers, which acts as a countervailing force to 
+        increased competition and product availability. Even when the policies do backfire, the 
+        effect on consumption remains small because of this offsetting force. 
       coauthors: with Gaston Lopez
 
     - title: Public Provision under Market Power. Evidence from a Nationalization in the Argentina Gasoline Industry
