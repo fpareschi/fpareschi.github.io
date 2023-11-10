@@ -84,26 +84,25 @@ publications:
     - title: Reducing Consumer Inertia in Tobacco Markets (JMP)
       link: /assets/files/inertia_tobacco_latest.pdf
       abstract: |
-        We study the equilibrium effects of tobacco control policies. Despite decades-long efforts 
-        to discourage smoking, the tobacco industry remains resilient. One of the main reasons is 
-        consumers' attachment to the products they smoke, which we call consumer inertia. We 
-        explore two reasons consumers are attached to their products: they get addicted to nicotine 
-        and develop lasting brand loyalty to their products. Recently, regulators have proposed some 
-        policies that would eliminate the addictive components of cigarettes and others that make 
-        consumers less loyal to their brands. Although such policies would directly impact consumers, 
-        we must understand firms' responses to assess their impact on consumption. Consumer inertia 
-        introduces dynamic incentives for the firms since future demand depends on current choices. 
-        As a result, consumers become a valuable asset for the firm, which modifies how they price, 
-        introduce, and discontinue products. To assess the empirical effect of reducing inertia in 
-        tobacco markets, we develop a model that accounts for consumers and firm responses: 
-        consumers have addiction and loyalty, and firms choose prices and product portfolios. 
-        We estimate the model leveraging rich variation from the Uruguayan industry and solve the 
-        dynamic game for multiple counterfactual levels of inertia. We find that firms' responses 
-        are unlikely to reverse the direct effect on consumers, even though lowering inertia makes 
-        customers more price-responsive and can facilitate entry. Decreasing inertia also discourages 
-        firms from lowering prices to attract customers, which acts as a countervailing force to 
-        increased competition and product availability. Even when the policies do backfire, the 
-        effect on consumption remains small because of this offsetting force. 
+        We study the equilibrium effects of tobacco control policies. The tobacco industry remains 
+        resilient mainly due to consumers' attachment to the products they smoke, known as consumer 
+        inertia, and stemming primarily from addiction to nicotine and brand loyalty to the product 
+        they patronize. As a result, regulators have recently proposed policies to remove addictive 
+        substances in cigarettes, and others that make consumers less loyal to their brands. 
+        Although such policies would directly impact consumers, there are concerns about firms' 
+        responses undermining the effect on consumption. To assess the empirical effect of reducing 
+        inertia, we develop a model that accounts for consumers and firm responses: consumers have 
+        addiction and loyalty, and firms choose prices and product portfolios. Consumer inertia ties 
+        future demand to present purchases, creating dynamic incentives for the firm. Thus, in our 
+        model, firms are forward-looking. We estimate the model leveraging rich variation in the 
+        Uruguayan industry, especially significant tax fluctuations and a policy that forced 40\%  
+        of the products out of the market. We also use this variation to suggest that firms 
+        internalize the dynamic implications of their actions, which validates our model. Lastly, 
+        we simulate industry dynamics using a computationally efficient equilibrium definition and 
+        show that firms' responses are unlikely to reverse the direct effect on consumers. 
+        Even though lowering inertia makes customers more price-responsive and can facilitate entry, 
+        it also discourages firms from lowering prices to attract customers, a compensating factor 
+        that emerges exclusively from market dynamics.
       coauthors: with Gaston Lopez
 
     - title: Public Provision under Market Power. Evidence from a Nationalization in the Argentina Gasoline Industry
