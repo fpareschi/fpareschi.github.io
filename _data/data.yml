@@ -84,25 +84,24 @@ publications:
     - title: Reducing Consumer Inertia in Tobacco Markets (JMP)
       link: /assets/files/inertia_tobacco_latest.pdf
       abstract: |
-        We study the equilibrium effects of tobacco control policies. The tobacco industry remains 
-        resilient mainly due to consumers' attachment to the products they smoke, stemming primarily 
-        from addiction and brand loyalty. We refer to these phenomena as consumer inertia. 
-        As a result, regulators have recently proposed some policies to remove cigarettes' addictive 
-        substances and others that make consumers less loyal to their brands. Although such policies 
-        would directly impact consumers, there are concerns about firms' responses undermining the 
-        effect on consumption. To empirically assess the equilibrium effect of reducing inertia, we 
-        develop a model that accounts for consumers' and firms' responses. Consumers have addiction 
-        and loyalty. Firms choose prices and product portfolios. Companies are forward-looking since 
-        they internalize that, under consumer inertia, future demand depends on current purchases. 
-        We identify addiction and brand loyalty leveraging significant tax fluctuations in the 
-        Uruguayan industry and a policy that forced 40% of the products out of the market. Moreover, 
-        we document pricing patterns that suggest firms are indeed forward-looking. Lastly, we 
-        simulate industry dynamics using a computationally tractable equilibrium definition and 
-        show that firms' responses are unlikely to reverse the direct effect on consumers. 
-        Reducing inertia makes customers more elastic and can facilitate entry, which induces lower 
-        prices and more variety. However, dynamic effects dominate. The reduced likelihood of 
-        retaining customers deters firms from pricing aggressively to attract consumers, a 
-        compensating factor that emerges only when we account for firms' dynamic incentives.
+        We study the equilibrium effects of tobacco control policies. To curb consumption in the 
+        resilient tobacco market, regulators are currently proposing policies to reduce smokers' 
+        addiction and others to lower brand loyalty--jointly known as consumer inertia. 
+        Although such policies would directly impact consumers, there are concerns about firms' 
+        responses undermining the effect on consumption. To assess the equilibrium effect of 
+        reducing inertia, we develop an empirical dynamic oligopoly model that accounts for 
+        consumers' and firms' responses. Consumers have addiction and loyalty, and firms choose 
+        prices and product portfolios. Companies are forward-looking since they internalize that, 
+        under consumer inertia, future demand depends on current purchases. We identify addiction 
+        and brand loyalty leveraging significant tax fluctuations in the Uruguayan industry and a 
+        policy that forced 40\% of the products out of the market. Moreover, we document pricing 
+        patterns that suggest firms are indeed forward-looking. Lastly, we simulate industry 
+        dynamics using a computationally tractable equilibrium definition and show that firms' 
+        responses tend to reinforce the direct effect on consumers. Reducing inertia makes 
+        customers more elastic and can facilitate entry, which induces lower prices and more 
+        variety. However, the reduced likelihood of retaining customers deters firms from pricing 
+        aggressively to attract consumers, a compensating factor that emerges only when we account 
+        for firms' dynamic incentives. In our setting, these dynamic effects dominate.
 
       coauthors: with Gaston Lopez
 
