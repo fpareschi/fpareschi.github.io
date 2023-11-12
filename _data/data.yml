@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Francisco Pareschi
     tagline: Curriculum Vitae
-    link_cv: /assets/files/Download Vita (PDF).pdf
+    link_cv: /assets/files/cv_latest.pdf
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -87,23 +87,23 @@ publications:
         We study the equilibrium effects of tobacco control policies. The tobacco industry remains 
         resilient mainly due to consumers' attachment to the products they smoke, stemming primarily 
         from addiction and brand loyalty. We refer to these phenomena as consumer inertia. 
-        As a result, regulators have recently proposed policies to remove cigarettes' addictive 
+        As a result, regulators have recently proposed some policies to remove cigarettes' addictive 
         substances and others that make consumers less loyal to their brands. Although such policies 
         would directly impact consumers, there are concerns about firms' responses undermining the 
-        effect on consumption. To assess the empirical effect of reducing inertia, we develop a 
-        model that accounts for consumers' and firms' responses. Consumers have addiction and 
-        loyalty. Firms choose prices and product portfolios. Moreover, companies are forward-looking 
-        since they understand that, under consumer inertia, future demand depends on current 
-        purchases. We estimate the model leveraging rich variation in the Uruguayan industry, 
-        especially significant tax fluctuations and a policy that forced 40\%  of the products 
-        out of the market. We also use this variation to validate our conduct assumption, 
-        documenting that firm behavior suggests they internalize the dynamic implications of 
-        their actions. Lastly, we simulate industry dynamics using a computationally tractable 
-        equilibrium definition and show that firms' responses are unlikely to reverse the 
-        direct effect on consumers. Even though lowering inertia makes customers more 
-        price-responsive and can facilitate entry, it also discourages firms from lowering prices 
-        to attract customers, a compensating factor that emerges only when we account for firms' 
-        dynamic incentives. 
+        effect on consumption. To empirically assess the equilibrium effect of reducing inertia, we 
+        develop a model that accounts for consumers' and firms' responses. Consumers have addiction 
+        and loyalty. Firms choose prices and product portfolios. Companies are forward-looking since 
+        they internalize that, under consumer inertia, future demand depends on current purchases. 
+        We identify addiction and brand loyalty leveraging significant tax fluctuations in the 
+        Uruguayan industry and a policy that forced 40\% of the products out of the market. Moreover, 
+        we document pricing patterns that suggest firms are indeed forward-looking. Lastly, we 
+        simulate industry dynamics using a computationally tractable equilibrium definition and 
+        show that firms' responses are unlikely to reverse the direct effect on consumers. 
+        Reducing inertia makes customers more elastic and can facilitate entry, which induces lower 
+        prices and more variety. However, dynamic effects dominate. The reduced likelihood of 
+        retaining customers deters firms from pricing aggressively to attract consumers, a 
+        compensating factor that emerges only when we account for firms' dynamic incentives.
+
       coauthors: with Gaston Lopez
 
     - title: How Do Governments Engage in Price Discrimination? Evidence from a Large-Scale Nationalization
