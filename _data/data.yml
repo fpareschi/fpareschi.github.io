@@ -83,24 +83,23 @@ publications:
       link: /assets/files/inertia_tobacco_latest.pdf
       abstract: |
         We study the equilibrium effects of tobacco control policies. To curb tobacco consumption, 
-        regulators are currently proposing policies to eliminate smokers' addiction and 
-        other policies to lower customers' brand loyalty, which we refer to as consumer inertia. 
+        regulators are currently proposing policies to reduce smokers' addictiveness and other 
+        policies to lower customers' brand loyalty, which we refer to as consumer inertia. 
         Although such policies would directly impact consumers, there is concern that firms' 
-        responses could undermine the effect on consumption. We develop and estimate an empirical 
-        dynamic oligopoly model to analyze these policies' equilibrium effects. Consumers face 
-        addiction and loyalty, and firms choose prices and product portfolios. Companies are 
-        forward-looking, since they internalize that, under consumer inertia, future demand depends 
-        on current purchases. We propose a tractable equilibrium definition and estimate the model 
-        using rich variation from the Uruguayan cigarette market. Leveraging tax fluctuations and a 
-        policy that removed 40% of products, we show that addiction and loyalty are both 
-        significant. We also document pricing patterns that suggest firms are indeed forward-looking. 
-        Our results indicate that although reducing inertia can increase demand elasticity up to 
-        three times and expand the expected number of products by as much as 30%, the policies are 
-        unlikely to backfire due to firms' responses. The reason is that these policies also reduce 
-        firms' benefit from attracting consumers because it is harder to retain them in the future, 
-        which leads to less aggressive pricing. This compensating factor is equivalent to increasing 
-        marginal costs by a factor of up to 3.5. Thus, this dynamic effect dominates, which 
-        reinforces the efficacy of the policies designed to reduce consumption.
+        responses could undermine the effect on consumption. We develop an empirical dynamic 
+        oligopoly model to analyze these policies' equilibrium effects and estimate it using 
+        variation from the cigarette industry. Companies are forward-looking, since they internalize 
+        that, under consumer inertia, future demand depends on current purchases. Leveraging tax 
+        fluctuations and a policy that forced 40% of products out of the market, we show that 
+        addiction and loyalty are both significant. We also document pricing patterns that suggest 
+        firms are indeed forward-looking. Lastly, we use a tractable equilibrium notion to simulate 
+        industry dynamics under alternative levels of inertia. Our results indicate that reducing 
+        inertia could backfire because it increases demand elasticity up to three times and expands 
+        the expected number of products by as much as 30%. However, these policies also reduce 
+        firms' benefit from attracting consumers since it is harder to retain them in the future, 
+        which leads to less aggressive pricing. Once we account for this dynamic effect, we conclude 
+        that firms' responses tend to reinforce the efficacy of the policies designed to reduce 
+        consumption.
 
 
       coauthors: with Gaston Lopez
