@@ -82,9 +82,9 @@ publications:
     - title: Reducing Consumer Inertia in Tobacco Markets (JMP)
       link: /assets/files/inertia_tobacco_latest.pdf
       abstract: |
-        We study the equilibrium effects of tobacco control policies. Although tobacco control 
-        measures usually target consumers, understanding firms' responses is crucial to assessing 
-        their impact on consumption. We first highlight that consumer dependence on cigarettes, 
+        We study the equilibrium effects of tobacco control policies. While tobacco control measures 
+        typically target consumers, it is crucial to understand firms' responses to assess these 
+        policies' impact on consumption. We highlight that consumers' dependence on cigarettes, 
         which we refer to as consumer inertia, introduces dynamic incentives for firms. 
         Thus, we develop a dynamic oligopoly model and estimate it using product-level data and a 
         panel of smokers. Leveraging large tax fluctuations and a policy that forced approximately 
@@ -93,13 +93,12 @@ publications:
         considering firms' dynamic incentives to explain their observed behavior. Lastly, we 
         propose a tractable equilibrium notion to compute market outcomes. We use this framework 
         to examine the counterfactual effect of uniform packaging restrictions and caps on nicotine 
-        concentration, two policies proposed by the WHO and FDA, respectively. We show that firms' 
-        responses tend to reinforce the direct effect of these policies. Supply responses strengthen 
-        the effect of these policies because companies' incentives to attract new consumers decrease 
-        since retaining them in the future becomes harder. These dynamic incentives reverse firms' 
-        short-term considerations. For example, firms can amplify the impact of uniform packaging 
-        even though demand elasticity increases by up to three times and the expected number of 
-        products expands by as much as 30%. 
+        concentration. We show that firms' responses tend to reinforce the direct effect of these 
+        policies. Supply responses strengthen the direct effect because companies' incentives to 
+        attract new consumers decrease, since retaining them in the future becomes harder. These 
+        dynamic incentives reverse firms' short-term considerations. For example, firms can amplify 
+        the impact of uniform packaging even though demand elasticity increases by up to three 
+        times and the expected number of products expands by as much as 30%. 
  
 
 
@@ -160,8 +159,8 @@ projects:
           I study the effect of consumer inertia on industry dynamics. I develop a dynamic model of 
           price competition that integrates entry, exit, and consumer inertia. I first simulate the 
           model in a simple environment using Markov Perfect Equilibrium as the equilibrium concept. 
-          State dependence only results in higher prices and concentrated markets if nearly all 
-          customers are repeat buyers and participation costs are high. However, I stress that the 
+          We show that, in this context, consumer inertia only results in higher prices and concentrated markets if nearly all 
+          customers are repeat buyers and participation costs are high. Then, I stress that the 
           MPE is inappropriate to study these industries due to the high computational requirements 
           both to market participants and analysts. Thus, I consider an alternative equilibrium 
           concept where firms condition in their own state and some market aggregates to form 
