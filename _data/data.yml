@@ -82,23 +82,23 @@ publications:
     - title: Reducing Consumer Inertia in Tobacco Markets (JMP)
       link: /assets/files/inertia_tobacco_latest.pdf
       abstract: |
-      We study the equilibrium effects of tobacco control policies. While tobacco regulation often 
-      targets consumers, comprehending firms' responses is essential for accurately evaluating the 
-      impact of these policies on consumption. We highlight that consumers' dependence on cigarettes, 
-      which we refer to as consumer inertia, introduces dynamic incentives for firms. Thus, 
-      we develop a dynamic oligopoly model and estimate it using product-level data and a panel of 
-      smokers. Leveraging large tax fluctuations and a policy that forced approximately 40% of 
-      products out of the market, we show that consumers face significant addiction and brand 
-      loyalty. We use these estimated preferences to demonstrate the importance of considering 
-      firms' dynamic incentives to explain their observed behavior. Lastly, we propose a tractable 
-      equilibrium notion to compute market outcomes. We use this framework to examine the 
-      counterfactual effect of uniform packaging restrictions and caps on nicotine concentration. 
-      We show that firms' responses tend to reinforce the direct effect of these policies. Supply 
-      responses strengthen the direct effect because companies' incentives to attract new consumers 
-      decrease, since retaining them in the future becomes harder. These dynamic incentives reverse 
-      firms' short-term considerations. For example, firms can amplify the impact of uniform 
-      packaging even though demand elasticity increases by up to three times and the expected 
-      number of products expands by as much as 30%. 
+        We study the equilibrium effects of tobacco control policies. While tobacco regulation often 
+        targets consumers, comprehending firms' responses is essential for accurately evaluating the 
+        impact of these policies on consumption. We highlight that consumers' dependence on cigarettes, 
+        which we refer to as consumer inertia, introduces dynamic incentives for firms. Thus, 
+        we develop a dynamic oligopoly model and estimate it using product-level data and a panel of 
+        smokers. Leveraging large tax fluctuations and a policy that forced approximately 40% of 
+        products out of the market, we show that consumers face significant addiction and brand 
+        loyalty. We use these estimated preferences to demonstrate the importance of considering 
+        firms' dynamic incentives to explain their observed behavior. Lastly, we propose a tractable 
+        equilibrium notion to compute market outcomes. We use this framework to examine the 
+        counterfactual effect of uniform packaging restrictions and caps on nicotine concentration. 
+        We show that firms' responses tend to reinforce the direct effect of these policies. Supply 
+        responses strengthen the direct effect because companies' incentives to attract new consumers 
+        decrease, since retaining them in the future becomes harder. These dynamic incentives reverse 
+        firms' short-term considerations. For example, firms can amplify the impact of uniform 
+        packaging even though demand elasticity increases by up to three times and the expected 
+        number of products expands by as much as 30%. 
  
 
 
