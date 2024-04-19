@@ -152,18 +152,18 @@ projects:
     assignments:
       - title: Industry dynamics in markets with inertia 
         link: # "https://drive.google.com/open?id=16I7tRB-XFKtr3k2JFtrm9l6u7RcmagGD&usp=drive_fs"
-        abstract: |
+        #abstract: |
          
       - title: Misallocation of water. The role of storage
         link: # 
         coauthors: with Matthew O'Keefe
-        abstract:
+        #abstract:
             
 
       - title: "Insurance under information frictions in the electricity market"
         link: #
         coauthors: with Mar Reguant
-        abstract: |
+        #abstract: |
          
 
 
