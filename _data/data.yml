@@ -151,7 +151,7 @@ projects:
     intro: 
     assignments:
       - title: Dynamic Equilibrium Effects of Sin Taxes for Addictive Products
-        link: # "https://drive.google.com/open?id=16I7tRB-XFKtr3k2JFtrm9l6u7RcmagGD&usp=drive_fs"
+        #link: # "https://drive.google.com/open?id=16I7tRB-XFKtr3k2JFtrm9l6u7RcmagGD&usp=drive_fs"
         #abstract: |
          
       - title: Misallocation of water. The role of storage
@@ -161,7 +161,7 @@ projects:
             
 
       - title: "Insurance under information frictions in the electricity market"
-        link: #
+        #link: #
         coauthors: with Mar Reguant
         #abstract: |
          
