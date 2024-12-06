@@ -3,3 +3,7 @@ _site/
 .sass-cache/
 .jekyll-metadata
 .jekyll-cache
+
+
+# Ignore old assets 
+/assets - Copy 
